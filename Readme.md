@@ -58,4 +58,4 @@ http://localhost:8088
 
 # Automate everything
 
-To automate everything add code before "while" on yarn-entrypoint.sh 
+To automate everything add code before "while" on yarn-entrypoint.sh
